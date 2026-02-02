@@ -1,0 +1,7 @@
+id = "rust-and-brown"
+name = "Rust & Brown"
+description = "A warm dark theme with brown tones and orange accents"
+version = "1.0.0"
+schema_version = 1
+authors = ["LukianovII"]
+repository = "https://github.com/LukianovII/rust-and-brown-zed"
