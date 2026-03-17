@@ -12,6 +12,8 @@ A warm dark theme for Zed editor with brown tones and orange accents.
 
 A cozy color scheme designed for comfortable long-term coding sessions. Soft brown shades reduce eye strain, while orange accents add expressiveness to your code.
 
+Also available for [VS Code](https://github.com/LukianovII/rust-and-brown-vscode).
+
 ### Screenshots
 
 ![Rust code example](screenshots/image_2026-02-02_17-28-01.png)
@@ -91,6 +93,8 @@ MIT
 ### Описание
 
 Уютная цветовая схема, созданная для комфортной длительной работы. Мягкие коричневые оттенки снижают нагрузку на глаза, а оранжевые акценты добавляют выразительности коду.
+
+Также доступна для [VS Code](https://github.com/LukianovII/rust-and-brown-vscode).
 
 ### Скриншоты
 
